@@ -1,0 +1,17 @@
+{
+    "name": "ghosty/filesystem",
+    "type": "package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ghosty\\Filesystem\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AnvilM",
+            "email": "211anvil112@gmail.com"
+        }
+    ],
+    "require": {}
+}
